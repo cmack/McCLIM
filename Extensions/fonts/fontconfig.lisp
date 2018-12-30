@@ -31,7 +31,9 @@
              #p"/usr/X11R6/lib/X11/fonts/TTF/"
              #p"/opt/X11/share/fonts/TTF/"
              #p"/opt/X11/share/fonts/"
-             #p"C:/Windows/Fonts/")))
+             #p"C:/Windows/Fonts/"
+             #p"~/Library/Fonts/"
+             #p"/Library/Fonts/")))
 
 ;;; Here are mappings for the DejaVu family of fonts, which are a
 ;;; derivative of Vera with improved unicode coverage.
